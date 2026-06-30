@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="Managers/Managers.csproj" />
-  <Project Path="TaskManager/TaskManager.sqlproj" Id="12c0fd10-3023-4f03-81fc-4e6196ad36a3">
-    <Build />
-    <Deploy />
-  </Project>
-</Solution>
