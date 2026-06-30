@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CyberSecurity/CyberSecurity.csproj" />
+  <Project Path="CyberTasks/CyberTasks.sqlproj" Id="9ec0f8ed-6689-4bed-b22c-355d6da75a77">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
