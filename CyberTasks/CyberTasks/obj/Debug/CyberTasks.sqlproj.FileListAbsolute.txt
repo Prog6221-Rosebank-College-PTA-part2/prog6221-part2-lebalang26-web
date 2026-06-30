@@ -1,0 +1,10 @@
+C:\Users\lebal\source\repos\CyberTasks\CyberTasks\bin\Debug\CyberTasks.dacpac
+C:\Users\lebal\source\repos\CyberTasks\CyberTasks\bin\Debug\CyberTasks.dll
+C:\Users\lebal\source\repos\CyberTasks\CyberTasks\bin\Debug\CyberTasks.pdb
+C:\Users\lebal\source\repos\CyberTasks\CyberTasks\obj\Debug\CyberTasks.sqlproj.AssemblyReference.cache
+C:\Users\lebal\source\repos\CyberTasks\CyberTasks\obj\Debug\Model.xml
+C:\Users\lebal\source\repos\CyberTasks\CyberTasks\obj\Debug\refactor.xml
+C:\Users\lebal\source\repos\CyberTasks\CyberTasks\obj\Debug\postdeploy.sql
+C:\Users\lebal\source\repos\CyberTasks\CyberTasks\obj\Debug\predeploy.sql
+C:\Users\lebal\source\repos\CyberTasks\CyberTasks\obj\Debug\CyberTasks.dll
+C:\Users\lebal\source\repos\CyberTasks\CyberTasks\obj\Debug\CyberTasks.pdb

@@ -1,0 +1,7 @@
+C:\Users\lebal\source\repos\CyberTasks\CyberSecurity\obj\Debug\net10.0-windows\CyberSecurity.csproj.AssemblyReference.cache
+C:\Users\lebal\source\repos\CyberTasks\CyberSecurity\obj\Debug\net10.0-windows\CyberSecurity.Form1.resources
+C:\Users\lebal\source\repos\CyberTasks\CyberSecurity\obj\Debug\net10.0-windows\CyberSecurity.csproj.GenerateResource.cache
+C:\Users\lebal\source\repos\CyberTasks\CyberSecurity\obj\Debug\net10.0-windows\CyberSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lebal\source\repos\CyberTasks\CyberSecurity\obj\Debug\net10.0-windows\CyberSecurity.AssemblyInfoInputs.cache
+C:\Users\lebal\source\repos\CyberTasks\CyberSecurity\obj\Debug\net10.0-windows\CyberSecurity.AssemblyInfo.cs
+C:\Users\lebal\source\repos\CyberTasks\CyberSecurity\obj\Debug\net10.0-windows\CyberSecurity.csproj.CoreCompileInputs.cache
